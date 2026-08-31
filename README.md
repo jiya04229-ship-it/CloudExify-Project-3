@@ -34,7 +34,7 @@ All testing was conducted only against the authorized, intentionally vulnerable 
 
 - [View Project PDF Report](./CloudExify_Project_3.pdf)
 - [View Project Word Report](./CloudExify_Project_3_Report.docx)
-- [Screenshots](./Screenshots/All%20SS)
+
   ----
 
 ## Objectives
