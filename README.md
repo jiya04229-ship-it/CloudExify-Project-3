@@ -65,7 +65,6 @@ The main objectives of the project were to:
 | Browser | Mozilla Firefox |
 | Web Security Tool | Burp Suite Community Edition |
 | Network Discovery | Nmap |
-| Vulnerability Assessment | Nessus |
 | Testing Scope | Local / Authorized Laboratory |
 
 ---
