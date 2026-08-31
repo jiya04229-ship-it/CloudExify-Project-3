@@ -1,4 +1,3 @@
-#  Web Application & Penetration Testing
 ### CloudExify Cybersecurity Internship — Project 03
 
 > **A controlled, authorized cybersecurity laboratory assessment of DVWA using Kali Linux, Burp Suite, Nmap, and supporting security tools.**
