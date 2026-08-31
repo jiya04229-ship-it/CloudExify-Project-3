@@ -30,6 +30,14 @@ All testing was conducted only against the authorized, intentionally vulnerable 
 
 ---
 
+## 📄 Project Documentation
+
+- [View Project PDF Report](./CloudExify_Project_3.pdf)
+- [View Project Word Report](./CloudExify_Project_3_Report.docx)
+- [View Project Screenshots](./Screenshots/)
+
+  ----
+
 ## Objectives
 
 The main objectives of the project were to:
